@@ -29,6 +29,10 @@ https://openthread.io/guides/thread-primer/ipv6-addressing
 https://en.wikipedia.org/wiki/Thread_(network_protocol)#cite_note-StackPdf-11
 
 
+A good pdf on thread:
+file:///home/awanit/Desktop/7%20SEM/WN_WirelsessNetworks_CS415/Midsem%20Seminar/ThreadNetworkFundamentalsv3_633_3.pdf
+
+
 
 
 
