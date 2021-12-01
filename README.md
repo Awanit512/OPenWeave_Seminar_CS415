@@ -17,7 +17,7 @@ Link for GitHub repo  of openweave : https://github.com/openweave
 ***
 
 
-Good contents on THread :
+Good contents on THread : <br />
 https://www.kirale.com/support/kb/ip-connectivity-between-the-thread-network-and-the-lan-part-ii/#:~:text=A%20Thread%20Network%20only%20operates,communication%20within%20the%20Thread%20Network.
 
 https://www.threadgroup.org/news-events/blog/ID/190/IPv6-based-Thread-networks-in-an-IPv4-based-enterprise-network
